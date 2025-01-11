@@ -1,3 +1,4 @@
+![logo](https://github.com/ianandpathak/ianandpathak/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Anand Pathak</h1>
 <h3 align="center">A passionate frontend engineer from India</h3>
 
