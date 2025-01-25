@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/anandpa15596893" target="blank"><img src="https://img.shields.io/twitter/follow/anandpa15596893?logo=twitter&style=for-the-badge" alt="anandpa15596893" /></a> </p>
 
-- 🌱 I’m currently learning **Cloud Computing, Azure, Pipeline, Terraform**
+- 🌱 I’m currently working **Cloud Computing, Azure, Pipeline, Terraform**
 
 - 📫 How to reach me **anandpathak494@gmail.com**
 
